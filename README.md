@@ -23,4 +23,4 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
-[![KR78's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr78)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![KR78's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr78)](https://github.com/anuraghazra/github-readme-stats) -->
